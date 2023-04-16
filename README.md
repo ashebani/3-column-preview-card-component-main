@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub)
-- Live Site URL: (https://nft-preview-card-component-gamma-eight.vercel.app/)
+- Solution URL: (https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub)
+- Live Site URL: (https://3-column-preview-card-component-main-theta-three.vercel.app/)
 
 ## My process
 
